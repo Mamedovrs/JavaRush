@@ -8,7 +8,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-public class Solution_9_11_4 {
+public class Solution_9_11_4_date {
     public static void main(String[] args) throws IOException, ParseException {
         String date = (new BufferedReader(new InputStreamReader(System.in))).readLine();
         SimpleDateFormat old_format = new SimpleDateFormat("y-MM-dd");
